@@ -1,0 +1,19 @@
+Assignment for Voting app
+asdlfkj;alskfj
+asdfljasl;kdfjds
+asdflkjasl;dfjk
+asdlfjaklsjf
+adslfj
+alajfsdkl;
+adslfjklsaf
+adf;lkja
+asl;df;lasd
+
+[root@ip-172-31-16-162 Worker]# kubectl get svc
+NAME         TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)          AGE
+db           ClusterIP   10.100.150.132   <none>        5432/TCP         77m
+kubernetes   ClusterIP   10.96.0.1        <none>     
+
+
+OBSERVATION : all the applications are working fine
+OBSERVATION 2 : 2 pods have restart
